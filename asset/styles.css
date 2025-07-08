@@ -1,0 +1,58 @@
+:root{
+    --biru-1 : #2c8bff;
+    --biru-2 : #2c56ff;
+
+    --bg-1: #f8f8f8;
+    --bg-2: #eeeeee;
+    --bg-3: #c4c4c4;
+    --bg-4: #a0a0a0;
+    --bg-5: #6f6f6f;
+}
+
+/* bg-biru */
+.bg-biru-1{
+    background-color: var(--biru-1) !important;
+}
+.bg-biru-2{
+    background-color: var(--biru-2);
+}
+
+.btn-biru{
+    background-color: var(--biru-1) !important;
+}
+
+/* bg */
+.bg-1{
+    background-color: var(--bg-2) !important;
+}
+.kategori-image{
+    height: 250px;
+}
+.image-box{
+    height: 200px;  
+}
+.image-box img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    border: none;
+}
+.text-harga{
+    color: var(--biru-2);
+    font-weight: 400;
+}
+.overflow-scroll{
+    height: 100vh;
+}
+
+
+
+
+
+
+@media (max-width: 620px){
+    .image-box{
+        height: 150px;
+    }
+}
