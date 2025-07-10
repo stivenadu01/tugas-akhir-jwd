@@ -1,4 +1,4 @@
-# 🛒 Aplikasi Web Penjualan Produk – Tugas Akhir JWD Digitalent
+# 🛒 Aplikasi Web Penjualan Produk
 
 **simulasi toko online** yang memungkinkan pengguna untuk melihat produk, melakukan pemesanan, serta admin bisa mengelola data melalui admin panel.
 
